@@ -1,0 +1,5 @@
+gemini api 
+langchain
+streamlit
+python -dotenv
+pypdf2
