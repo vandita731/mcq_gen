@@ -2,7 +2,7 @@
 
 An AI-powered web app that generates multiple choice questions (MCQs) from a **topic**, **pasted text**, or an **uploaded PDF/TXT file** — built with **LangChain**, **Google Gemini**, and **Streamlit**.
 
-🔗 **Live demo:** [Add your Streamlit Cloud URL here]
+🔗 **Live demo:** https://mcqgen-g9buyifnsvpimyhnurtws8.streamlit.app/
 
 ---
 
@@ -108,3 +108,7 @@ Deployed on [Streamlit Community Cloud](https://share.streamlit.io). The `GOOGLE
 ## Author
 
 **Vandita** — [GitHub](https://github.com/vandita731)
+
+![alt text](image.png)
+
+![alt text](image-1.png)
